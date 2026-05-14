@@ -33,4 +33,4 @@ Thumbs.db
 .DS_Store
 
 # Kiro specs (opsional, bisa dihapus jika tidak perlu)
-# .kiro/
+.kiro/
