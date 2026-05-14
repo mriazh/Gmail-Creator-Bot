@@ -1,0 +1,25 @@
+{
+  "seed_accounts": [
+    {
+      "email": "your_seed_account_1@gmail.com",
+      "password": "your_password_1"
+    },
+    {
+      "email": "your_seed_account_2@gmail.com",
+      "password": "your_password_2"
+    },
+    {
+      "email": "your_seed_account_3@gmail.com",
+      "password": "your_password_3"
+    }
+  ],
+  "phone_numbers": [
+    "+628xxxxxxxxxx",
+    "+628xxxxxxxxxx"
+  ],
+  "accounts_per_ip_rotation": 2,
+  "delay_min": 60,
+  "delay_max": 180,
+  "total_accounts": 3,
+  "faker_locale": "en_US"
+}

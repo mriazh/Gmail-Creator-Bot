@@ -1,0 +1,5 @@
+camoufox
+faker
+hypothesis
+pytest
+requests

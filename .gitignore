@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Testing
+.pytest_cache/
+.hypothesis/
+htmlcov/
+.coverage
+
+# Bot output files (sensitif!)
+hasil_akun.txt
+bot_activity.log
+ip_history.log
+phone_usage.json
+
+# Config dengan kredensial asli
+config.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Kiro specs (opsional, bisa dihapus jika tidak perlu)
+# .kiro/
